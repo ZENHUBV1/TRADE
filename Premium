@@ -1,5 +1,5 @@
 task.spawn(function()
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjMwNThkMGE0LTIxNzUtNGJkNy1hYzhiLTE0MWEyYTE4Y2UwYyIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/fcyxJYNAMu/0"))()
 end)
 task.spawn(function()
 	loadstring(game:HttpGet("https://pastefy.app/v1qWFBU6/raw"))()
